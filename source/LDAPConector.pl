@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 # Mauricio Lopez
-#I3D EMCALI E.I.C.E.  E.S.P.
 
 use strict;
 use lib "./lib/";
